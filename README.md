@@ -175,7 +175,6 @@ The Power BI dashboard provides:
 
 ## Sample Dashboard
 
-Add a screenshot of your dashboard below:
 
 ![Loan Risk Dashboard](screenshots/dashboard.png)
 
