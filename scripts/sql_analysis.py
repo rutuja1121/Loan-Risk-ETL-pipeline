@@ -31,5 +31,5 @@ result = pd.read_sql_query(
 print(result)
 df.to_csv(
     "dashboard/powerbi_dataset.csv",
-    index=False
+    index=True
 )
