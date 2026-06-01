@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_csv("data/train.csv.csv")
 
-# Remove duplicates
+# Remove duplicates7
 df = df.drop_duplicates()
 
 # Fill missing LoanAmount
