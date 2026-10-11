@@ -43,8 +43,16 @@ If run_pipeline.py has been created and tested:
 The Power BI dashboard presents loan application
 counts, risk categories, loan status and loan
 amount comparisons, depending on the available fields.
+The dashboard provides insights into loan applications, applicant income,
+loan amounts, loan approval status, and risk categories.
+
+![Loan Risk Analytics Dashboard](dashboard/power%20bi.png)
+
 
 ## Limitations
 Risk categories are based on the implemented rules.
 They should not be interpreted as a validated
 credit-risk prediction model.
+
+
+
